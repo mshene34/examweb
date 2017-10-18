@@ -1,0 +1,14 @@
+---
+title: "10:00 Session"
+output: html_document
+---
+####Mike Sheneman
+####October 18th, 2017
+######Here is some arithmatic
+
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
